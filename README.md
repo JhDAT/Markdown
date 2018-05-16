@@ -132,7 +132,7 @@ I think you should use an
 ### Automatic linking for URLs
 임의의 URL을 적으면 자동으로 클릭 가능한 링크로 변환합니다.
 
-bornteller Blog : https://bornteller.github.io
+IOS Study : https://github.com/JhDAT/iOS_Study
 
 ### Strikethrough
 취소선 ~~this~~입니다.
@@ -142,12 +142,24 @@ bornteller Blog : https://bornteller.github.io
 
 ```
 
+### Images
+
+이미지를 임베디드 하려면 :
+
+```
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+
+깃에 있는 폴더에 있는 이미지가져오기 :
+프로젝트 작성시 img(다른 이름도 관계없다) 폴더를 만들어 이미지를 넣는다.
+```
+![alt text] (.img/imgName.png)
+```
+
+<br>
+<br>
+<br>
+
 ### Reference
 1.  https://guides.github.com/features/mastering-markdown/
 
-
-
-
-
-
-# Markdown
